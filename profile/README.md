@@ -24,6 +24,7 @@ Our mission is to combine advanced Artificial Intelligence, Data Engineering, Cy
 
 We build scalable platforms that integrate data from multiple domains to deliver real-time analytics, predictive insights, automation, and decision support.
 
+### Core EIPPONE Intelligence Pillars
 
 | Pillar                               | Focus                                                 |
 | ------------------------------------ | ----------------------------------------------------- |
