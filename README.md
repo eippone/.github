@@ -52,10 +52,3 @@ EIPPONE is committed to supporting open research and transparency. We actively s
 
 *Built by Atsu Vovor · Data & AI Systems*
 
----
-
-### Implementation Recommendations for GitHub:
-
-1. **Organization Profile README:** Place this content in a repository named exactly `.github` within your organization. The `README.md` file in the main branch of this repository will automatically appear on your organization's landing page.
-2. **Pinned Repositories:** Use the "Pinned" feature on GitHub to highlight your **SDG-Pro** and **RES-X** repositories for maximum visibility.
-3. **Documentation:** Link your GitHub repositories to the technical documentation or the demo portals mentioned in your files (e.g., `eippone_demo.html` and `projects.html`) using the repository "About" section or by adding a `website` field in the repository settings.
