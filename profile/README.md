@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/eippone_hero.svg" width="100%" />
+</p>
+
 
 <div align="center">
 
