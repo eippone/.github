@@ -11,7 +11,7 @@
 *Simulate the future. Neutralize uncertainty. Make confident decisions.*
 
 <p style="font-size:18px; color: #666;">
-AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Research systems
+AI-driven Enterprise Intelligence Platform for Finance, Cybersecurity, Environmental & Research systems
 </p>
 
 <p>
