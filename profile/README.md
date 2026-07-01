@@ -21,10 +21,6 @@ AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Rese
   <img src="https://img.shields.io/badge/Open%20Source-Community-orange" />
 </p>
 
-<p>
-  <b>Build • Simulate • Predict • Protect</b>
-</p>
-
 
 [Website](https://www.eippone.com) •
 [Documentation](https://github.com/EIPPONE) •
