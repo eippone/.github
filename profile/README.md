@@ -151,10 +151,8 @@ We actively publish:
 
 🌐 https://www.eippone.com
 
----
 
 © 2026 EIPPONE Simulation Dynamics Inc.
-
 
 
 *Built by Atsu Vovor · Data & AI Systems*
