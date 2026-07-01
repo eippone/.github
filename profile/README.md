@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/eippone_hero.svg" width="100%" />
+  <img src="https://github.com/eippone/eippone-docs/blob/main/images/eippone_hero.svg" width="100%" />
 </p>
 
 
