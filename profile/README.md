@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ## Welcome
 
@@ -29,7 +28,6 @@ Our platform combines:
 - Decision Intelligence
 - Executive Analytics
 
----
 
 ## Our Vision
 
@@ -37,13 +35,13 @@ Our platform combines:
 
 We believe organizations should be able to explore possible futures before making high-impact decisions.
 
----
+
 
 ## Our Mission
 
 To build trusted AI-augmented Simulation Intelligence platforms that enable organizations to simulate, analyze and explain complex operational, financial, cyber and environmental systems.
 
----
+
 
 ## Engineering Philosophy
 
@@ -52,7 +50,7 @@ To build trusted AI-augmented Simulation Intelligence platforms that enable orga
 - Rare events matter more than averages.
 - Simulation is the missing link between data and strategy.
 
----
+
 
 ## Simulation Intelligence Architecture
 
@@ -72,7 +70,7 @@ Decision Intelligence
 Executive Dashboards
 ```
 
----
+
 
 ## Intelligence Domains
 
@@ -100,7 +98,7 @@ Executive Dashboards
 - Compliance
 - Executive Decision Support
 
----
+
 
 ## Platform Portfolio
 
@@ -116,7 +114,7 @@ Executive Dashboards
 | EIPPONE DQ-AI | Data Governance |
 | Simulation Dynamics API Hub | Enterprise APIs |
 
----
+
 
 ## Technology Ecosystem
 
@@ -132,7 +130,7 @@ Executive Dashboards
 - Python
 - Azure
 
----
+
 
 ## Open Research
 
