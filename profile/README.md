@@ -145,6 +145,8 @@ We actively publish:
 
 ---
 
+<div align="center">
+      
 ## Connect
 
 🌐 https://www.eippone.com
@@ -153,8 +155,8 @@ We actively publish:
 
 © 2026 EIPPONE Simulation Dynamics Inc.
 
----
+
 
 *Built by Atsu Vovor · Data & AI Systems*
 
----
+</div>
