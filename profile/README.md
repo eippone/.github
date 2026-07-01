@@ -102,9 +102,9 @@ It is built for **scalable intelligence orchestration** across multiple domains.
 
 ---
 
-<!-- ========================= -->
-<!-- VISION -->
-<!-- ========================= -->
+<!-- ================================= -->
+<!-- VISION - Mission & Philosophy -->
+<!-- ================================ -->
 
 ## 🎯 Vision
 
@@ -114,6 +114,25 @@ To create a unified **AI-native intelligence infrastructure** capable of:
 - Simulating real-world environments
 - Detecting anomalies in real time
 - Supporting scientific and financial decision-making
+  
+**Simulate the future. Neutralize uncertainty. Make confident decisions.**
+
+We believe organizations should be able to explore possible futures before making high-impact decisions.
+
+
+## Our Mission
+
+To build trusted AI-augmented Simulation Intelligence platforms that enable organizations to simulate, analyze and explain complex operational, financial, cyber and environmental systems.
+
+
+
+## Engineering Philosophy
+
+- Critical decisions should never depend on incomplete or biased data.
+- AI must be explainable, auditable and governance-ready.
+- Rare events matter more than averages.
+- Simulation is the missing link between data and strategy.
+
 
 ---
 
@@ -458,19 +477,6 @@ MIT License © 2026 EIPPONE Ecosystem
 </div>
 ```
 
----
-
-## If you want next upgrade options
-
-I can extend this into:
-
-* 🔷 SVG animated banner (top hero)
-* 🔷 GitHub profile README version (special layout)
-* 🔷 Dark-mode themed version
-* 🔷 Fully branded EIPPONE design system (colors, fonts, UI kit)
-* 🔷 Or convert into a live website (Next.js + Tailwind)
-
-Just tell me 👍
 
 ---
 ## Our Vision
