@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://www.eippone.com/">
+   <a href="https://www.eippone.com" target="_blank">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/eippone_hero.svg" width="100%" />
     </a>
 </p>
