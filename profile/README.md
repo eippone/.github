@@ -234,6 +234,11 @@ Capabilities:
 * Crypto trend detection
 * Portfolio optimization
 * Risk heatmaps
+* Financial Market Simulation
+* Risk Analytics
+* Stress Testing
+* Portfolio Analytics
+* Market Forecasting
 
 ### Key Models:
 
@@ -257,6 +262,10 @@ Features:
 * Log anomaly detection
 * Behavioral fingerprinting
 * Threat classification AI
+* Threat Simulation
+* Security Analytics
+* SOC Intelligence
+* Attack Modeling
 
 ---
 
@@ -274,8 +283,17 @@ Modules:
 * Air quality monitoring
 * Satellite data processing
 * Disaster risk forecasting
+* Climate Analytics
+* Atmospheric Modeling
+* Disaster Risk
 
----
+
+### Enterprise Intelligence
+* Operational Digital Twins
+* Governance
+* Compliance
+* Executive Decision Support
+
 
 <!-- ========================= -->
 
@@ -285,13 +303,63 @@ Modules:
 
 ## 🔬 Research & AI Layer
 
+We actively publish:
 * Experiment tracking system
 * Dataset pipeline manager
 * Model benchmarking suite
 * AI reasoning modules
+* Open-source tools
+* Benchmarks
+* Sample datasets
+* Reproducible research
+* Reference architectures
 
+
+## Platform Portfolio
+
+| Platform | Purpose |
+|----------|---------|
+| EIPPONE SDG Pro | Synthetic Data Generation |
+| EIPPONE RES-X | Rare Event Simulation |
+| EIPPONE DT-Ops | Digital Twin Operations |
+| EIPPONE A2I Insights | Executive Intelligence |
+| EIPPONE A2I Copilot | Conversational Analytics |
+| EIPPONE CYB-SimX | Cyber Attack Simulation |
+| EIPPONE FinSim-360 | Financial Market Simulation |
+| EIPPONE DQ-AI | Data Governance |
+| Simulation Dynamics API Hub | Enterprise APIs |
 ---
 
+
+<!-- ========================= -->
+
+<!-- TECH STACK -->
+
+<!-- ========================= -->
+
+## Technology Ecosystem
+
+* Artificial Intelligence
+* Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* GANs
+* Digital Twins
+* Monte Carlo & Rare-event Simulation
+* Data Engineering
+* Power BI
+* Power Platform(Dataverse, Power Automate, Power Pages
+* Tableau
+* Azure
+* Python (AI/ML Core)
+* TensorFlow / PyTorch
+* FastAPI
+* React / Next.js
+* Azure / AWS Cloud
+* Docker / Kubernetes
+* PostgreSQL / MongoDB
+* Firebase
+
+---
 <!-- ========================= -->
 
 <!-- LIVE DEMOS -->
@@ -307,23 +375,7 @@ Modules:
 
 ---
 
-<!-- ========================= -->
 
-<!-- TECH STACK -->
-
-<!-- ========================= -->
-
-## 🧱 Tech Stack
-
-* Python (AI/ML Core)
-* TensorFlow / PyTorch
-* FastAPI
-* React / Next.js
-* Azure / AWS Cloud
-* Docker / Kubernetes
-* PostgreSQL / MongoDB
-
----
 
 <!-- ========================= -->
 
@@ -450,19 +502,6 @@ MIT License © 2026 EIPPONE Ecosystem
 
 ---
 
-<!-- ========================= -->
-
-<!-- CONTACT -->
-
-<!-- ========================= -->
-
-## 📬 Contact
-
-* Website: [https://eippone.com](https://eippone.com)
-* Email: [contact@eippone.com](mailto:contact@eippone.com)
-* GitHub: [https://github.com/eippone](https://github.com/eippone)
-
----
 
 <!-- ========================= -->
 
@@ -470,139 +509,21 @@ MIT License © 2026 EIPPONE Ecosystem
 
 <!-- ========================= -->
 
-<div align="center">
+<!-- ========================= -->
 
-🚀 Built for the future of intelligent systems.
+<!-- CONTACT -->
 
-</div>
-```
+<!-- ========================= -->
 
-
----
-## Our Vision
-
-**Simulate the future. Neutralize uncertainty. Make confident decisions.**
-
-We believe organizations should be able to explore possible futures before making high-impact decisions.
-
-
-
-## Our Mission
-
-To build trusted AI-augmented Simulation Intelligence platforms that enable organizations to simulate, analyze and explain complex operational, financial, cyber and environmental systems.
-
-
-
-## Engineering Philosophy
-
-- Critical decisions should never depend on incomplete or biased data.
-- AI must be explainable, auditable and governance-ready.
-- Rare events matter more than averages.
-- Simulation is the missing link between data and strategy.
-
-
-
-## Simulation Intelligence Architecture
-
-```text
-Real-world Data
-      │
-Synthetic Data
-      │
-Rare Event Modeling
-      │
-Digital Twin Simulation
-      │
-AI & Generative Intelligence
-      │
-Decision Intelligence
-      │
-Executive Dashboards
-```
-
-
-
-## Intelligence Domains
-
-### Financial Market Intelligence
-- Financial Market Simulation
-- Risk Analytics
-- Stress Testing
-- Portfolio Analytics
-- Market Forecasting
-
-### Cyber Intelligence
-- Threat Simulation
-- Security Analytics
-- SOC Intelligence
-- Attack Modeling
-
-### Environmental Intelligence
-- Climate Analytics
-- Atmospheric Modeling
-- Disaster Risk
-
-### Enterprise Intelligence
-- Operational Digital Twins
-- Governance
-- Compliance
-- Executive Decision Support
-
-
-
-## Platform Portfolio
-
-| Platform | Purpose |
-|----------|---------|
-| EIPPONE SDG Pro | Synthetic Data Generation |
-| EIPPONE RES-X | Rare Event Simulation |
-| EIPPONE DT-Ops | Digital Twin Operations |
-| EIPPONE A2I Insights | Executive Intelligence |
-| EIPPONE A2I Copilot | Conversational Analytics |
-| EIPPONE CYB-SimX | Cyber Attack Simulation |
-| EIPPONE FinSim-360 | Financial Market Simulation |
-| EIPPONE DQ-AI | Data Governance |
-| Simulation Dynamics API Hub | Enterprise APIs |
-
-
-
-## Technology Ecosystem
-
-- Artificial Intelligence
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- GANs
-- Digital Twins
-- Monte Carlo & Rare-event Simulation
-- Data Engineering
-- Power BI
-- Tableau
-- Python
-- Azure
-
-
-
-## Open Research
-
-We actively publish:
-- Open-source tools
-- Benchmarks
-- Sample datasets
-- Reproducible research
-- Reference architectures
-
----
 
 <div align="center">
-      
+     
 ## Connect
 
 🌐 https://www.eippone.com
 
-
 © 2026 EIPPONE Simulation Dynamics Inc.
-
 
 *Built by Atsu Vovor · Data & AI Systems*
 
-
+</div>
