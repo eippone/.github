@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/eippone/eippone-docs/blob/main/images/eippone_hero.svg" width="100%" />
+   <a href="https://www.eippone.com/">
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/eippone_hero.svg" width="100%" />
+    </a>
 </p>
 
 
