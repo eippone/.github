@@ -14,7 +14,28 @@
 
 </div>
 
+<div align="center">
 
+<h1 style="font-size:42px;">
+  🌐 EIPPONE Ecosystem
+</h1>
+
+<p style="font-size:18px; color: #666;">
+AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Research systems
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Powered-blue" />
+  <img src="https://img.shields.io/badge/Cloud-Native-lightblue" />
+  <img src="https://img.shields.io/badge/Real--Time-Analytics-green" />
+  <img src="https://img.shields.io/badge/Open%20Source-Community-orange" />
+</p>
+
+<p>
+  <b>Build • Simulate • Predict • Protect</b>
+</p>
+
+</div>
 ## Welcome
 
 EIPPONE Simulation Dynamics Inc. is a Canadian research-driven engineering company developing Simulation Intelligence platforms that help organizations explore uncertainty before it becomes reality.
