@@ -341,21 +341,13 @@ EIPPONE is committed to supporting open research and transparency. We actively s
 
 ### Engineering Intelligence for Prediction, Protection, Optimization, Networking, and Evolution
 
-*Building the next generation of AI-driven Intelligence Platforms.*
+*Simulate the future. Neutralize uncertainty. Make confident decisions.*
 
 [Website](https://www.eippone.com) •
 [Documentation](https://github.com/EIPPONE) •
 [Projects](https://github.com/orgs/EIPPONE/repositories)
 
 </div>
-
----
-
-# EIPPONE
-
-> **Engineering Intelligence for Prediction, Protection, Optimization, Networking, and Evolution**
-
-### Simulate the future. Neutralize uncertainty. Make confident decisions.
 
 ---
 
@@ -496,3 +488,8 @@ We actively publish:
 
 © 2026 EIPPONE Simulation Dynamics Inc.
 
+---
+
+*Built by Atsu Vovor · Data & AI Systems*
+
+---
