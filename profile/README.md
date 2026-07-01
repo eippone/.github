@@ -466,11 +466,29 @@ curl -X POST "https://api.eippone.com/predict" \
 
 We welcome contributions:
 
+- Academic research collaborations  
+- Applied AI pilots and partnerships  
+- Grants, accelerators, and early-stage ventures
+  
 1. Fork repository
 2. Create feature branch
 3. Commit changes
 4. Open pull request
 
+
+<h3>📖 Contributor Guide - 💙 View Sponsor & Support Options<</h3>  
+<a href="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/CONTRIBUTING.md" target="_blank">
+    <img src="https://img.shields.io/badge/Contributing-Guide-brightgreen" />
+</a>
+
+ <!-- Research Collaboration -->
+  <a href="https://github.com/atsuvovor/CyberThreat_Insight/issues/new?template=research_collaboration.md" target="_blank">
+    <img src="https://img.shields.io/badge/Research-Collaboration-purple" />
+  </a>
+ <!-- Sponsors -->
+  <a href="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/.github/SPONSORS.md" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Sponsors-ff69b4" />
+  </a>
 
 
 <!-- ========================= -->
@@ -497,6 +515,21 @@ We welcome contributions:
 ##  License
 
 MIT License © 2026 EIPPONE Ecosystem
+
+
+## GitHub Activity & Proof of Execution
+
+Ongoing development, experimentation, and deployment of applied AI systems  
+with a focus on rare-event modeling, computer vision, and production-ready pipelines.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atsuvovor&layout=compact)
+
+![GitHub Stats (Theme)](https://github-readme-stats.vercel.app/api?username=atsuvovor&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=atsuvovor)
 
 ---
 
