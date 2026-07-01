@@ -7,25 +7,8 @@
 
 <div align="center">
 
-<img src="https://www.eippone.com/assets/images/logo.png" width="180">
-
-# EIPPONE
-
-### Engineering Intelligence for Prediction, Protection, Optimization, Networking, and Evolution
 
 *Simulate the future. Neutralize uncertainty. Make confident decisions.*
-
-[Website](https://www.eippone.com) •
-[Documentation](https://github.com/EIPPONE) •
-[Projects](https://github.com/orgs/EIPPONE/repositories)
-
-</div>
-
-<div align="center">
-
-<h1 style="font-size:42px;">
-  🌐 EIPPONE Ecosystem
-</h1>
 
 <p style="font-size:18px; color: #666;">
 AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Research systems
@@ -42,7 +25,15 @@ AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Rese
   <b>Build • Simulate • Predict • Protect</b>
 </p>
 
+
+[Website](https://www.eippone.com) •
+[Documentation](https://github.com/EIPPONE) •
+[Projects](https://github.com/orgs/EIPPONE/repositories)
+
 </div>
+
+
+
 ## Welcome
 
 EIPPONE Simulation Dynamics Inc. is a Canadian research-driven engineering company developing Simulation Intelligence platforms that help organizations explore uncertainty before it becomes reality.
