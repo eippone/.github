@@ -332,6 +332,22 @@ EIPPONE is committed to supporting open research and transparency. We actively s
 
 *Built by Atsu Vovor · Data & AI Systems*
 
+---
+<div align="center">
+
+<img src="https://www.eippone.com/assets/images/logo.png" width="180">
+
+# EIPPONE
+
+### Engineering Intelligence for Prediction, Protection, Optimization, Networking, and Evolution
+
+*Building the next generation of AI-driven Intelligence Platforms.*
+
+[Website](https://www.eippone.com) •
+[Documentation](https://github.com/EIPPONE) •
+[Projects](https://github.com/orgs/EIPPONE/repositories)
+
+</div>
 
 ---
 
