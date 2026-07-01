@@ -1,3 +1,5 @@
+<div align="center">
+
 <svg width="100%" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <!-- ===================== -->
@@ -87,7 +89,7 @@
 
 </svg>
 
-<div align="center">
+
 
 <img src="https://www.eippone.com/assets/images/logo.png" width="180">
 
