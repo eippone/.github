@@ -15,11 +15,20 @@ AI-driven intelligence platform for Finance, Cybersecurity, Environmental & Rese
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Powered-blue" />
-  <img src="https://img.shields.io/badge/Cloud-Native-lightblue" />
-  <img src="https://img.shields.io/badge/Real--Time-Analytics-green" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" />
+  <img src="https://img.shields.io/badge/AI-Powered-purple" />
   <img src="https://img.shields.io/badge/Open%20Source-Community-orange" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Finance-Intelligence-gold" />
+  <img src="https://img.shields.io/badge/Cyber-Security-red" />
+  <img src="https://img.shields.io/badge/Environment-Analytics-green" />
+  <img src="https://img.shields.io/badge/Research-Lab-blueviolet" />
+</p>
+
 
 
 [Website](https://www.eippone.com) •
@@ -45,39 +54,6 @@ Our platform combines:
 
 
 
----
-<!-- ========================= -->
-<!-- HERO SECTION -->
-<!-- ========================= -->
-
-<div align="center">
-
-# 🌐 EIPPONE Ecosystem
-
-### AI-Driven Intelligence Platform for Finance, Cybersecurity, Environmental & Research Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue" />
-  <img src="https://img.shields.io/badge/AI-Powered-purple" />
-  <img src="https://img.shields.io/badge/Open%20Source-Community-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Finance-Intelligence-gold" />
-  <img src="https://img.shields.io/badge/Cyber-Security-red" />
-  <img src="https://img.shields.io/badge/Environment-Analytics-green" />
-  <img src="https://img.shields.io/badge/Research-Lab-blueviolet" />
-</p>
-
----
-
-### 🔬 Simulate • 📊 Predict • 🛡 Protect • 🌍 Understand
-
-</div>
-
----
 
 <!-- ========================= -->
 <!-- QUICK NAVIGATION -->
