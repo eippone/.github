@@ -59,7 +59,7 @@ Our platform combines:
 <!-- QUICK NAVIGATION -->
 <!-- ========================= -->
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Vision](#vision)
@@ -82,13 +82,13 @@ Our platform combines:
 - [License](#license)
 - [Contact](#contact)
 
----
+
 
 <!-- ========================= -->
 <!-- OVERVIEW -->
 <!-- ========================= -->
 
-## 🧭 Overview
+##  Overview
 
 The **EIPPONE Ecosystem** is a modular intelligence platform designed to unify:
 
@@ -100,13 +100,13 @@ The **EIPPONE Ecosystem** is a modular intelligence platform designed to unify:
 
 It is built for **scalable intelligence orchestration** across multiple domains.
 
----
+
 
 <!-- ================================= -->
 <!-- VISION - Mission & Philosophy -->
 <!-- ================================ -->
 
-## 🎯 Vision
+##  Vision
 
 To create a unified **AI-native intelligence infrastructure** capable of:
 
@@ -134,45 +134,45 @@ To build trusted AI-augmented Simulation Intelligence platforms that enable orga
 - Simulation is the missing link between data and strategy.
 
 
----
+
 
 <!-- ========================= -->
 <!-- CORE MODULES -->
 <!-- ========================= -->
 
-## 🧩 Core Modules
+##  Core Modules
 
-### 💰 Financial Intelligence
+###  Financial Intelligence
 - Market prediction engine
 - Risk scoring system
 - Portfolio simulation
 - Volatility forecasting
 
-### 🛡 Cyber Intelligence
+###  Cyber Intelligence
 - Threat detection AI
 - Network anomaly tracking
 - Attack surface mapping
 - Behavioral analytics
 
-### 🌍 Environmental Intelligence
+###  Environmental Intelligence
 - Climate data modeling
 - Pollution tracking systems
 - Geo-spatial analytics
 - Sustainability forecasting
 
-### 🔬 Research Intelligence
+###  Research Intelligence
 - AI hypothesis testing
 - Data simulation engine
 - Experimental modeling
 - Scientific dataset processing
 
----
+
 
 <!-- ========================= -->
 <!-- ARCHITECTURE -->
 <!-- ========================= -->
 
-## 🏗 Architecture
+##  Architecture
 
 ```mermaid
 flowchart TD
@@ -184,17 +184,17 @@ E --> F[Decision Engine]
 F --> G[Visualization Layer]
 
 ```
----
 
 
-## ⚙️ System Design
+
+##  System Design
 
 * Microservices-based architecture
 * Event-driven pipelines
 * Distributed AI processing
 * Modular intelligence agents
 
----
+
 
 <!-- ========================= -->
 
@@ -202,7 +202,7 @@ F --> G[Visualization Layer]
 
 <!-- ========================= -->
 
-## 🧪 Simulation Engine
+##  Simulation Engine
 
 The simulation engine models:
 
@@ -218,7 +218,7 @@ The simulation engine models:
 * Scenario generation
 * AI reinforcement feedback loops
 
----
+
 
 <!-- ========================= -->
 
@@ -226,7 +226,7 @@ The simulation engine models:
 
 <!-- ========================= -->
 
-## 💰 Financial Intelligence
+##  Financial Intelligence
 
 Capabilities:
 
@@ -246,7 +246,7 @@ Capabilities:
 * Transformer-based forecasting
 * Monte Carlo simulation engine
 
----
+
 
 <!-- ========================= -->
 
@@ -254,7 +254,7 @@ Capabilities:
 
 <!-- ========================= -->
 
-## 🛡 Cyber Intelligence
+##  Cyber Intelligence
 
 Features:
 
@@ -267,7 +267,7 @@ Features:
 * SOC Intelligence
 * Attack Modeling
 
----
+
 
 <!-- ========================= -->
 
@@ -275,7 +275,7 @@ Features:
 
 <!-- ========================= -->
 
-## 🌍 Environmental Intelligence
+##  Environmental Intelligence
 
 Modules:
 
@@ -301,7 +301,7 @@ Modules:
 
 <!-- ========================= -->
 
-## 🔬 Research & AI Layer
+##  Research & AI Layer
 
 We actively publish:
 * Experiment tracking system
@@ -359,21 +359,19 @@ We actively publish:
 * PostgreSQL / MongoDB
 * Firebase
 
----
+
 <!-- ========================= -->
 
 <!-- LIVE DEMOS -->
 
 <!-- ========================= -->
 
-## 🎯 Live Demos
+##  Live Demos
 
 * 🔗 Financial Dashboard: `https://demo.eippone.com/finance`
 * 🔗 Cyber Monitor: `https://demo.eippone.com/cyber`
 * 🔗 Climate Explorer: `https://demo.eippone.com/climate`
 * 🔗 Simulation Lab: `https://demo.eippone.com/sim`
-
----
 
 
 
@@ -383,7 +381,7 @@ We actively publish:
 
 <!-- ========================= -->
 
-## ⚡ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-org/eippone.git
@@ -404,7 +402,7 @@ Run frontend:
 npm run dev
 ```
 
----
+
 
 <!-- ========================= -->
 
@@ -412,7 +410,7 @@ npm run dev
 
 <!-- ========================= -->
 
-## 🚀 Usage
+##  Usage
 
 Example API call:
 
@@ -422,7 +420,7 @@ curl -X POST "https://api.eippone.com/predict" \
 -d '{"asset":"AAPL","horizon":30}'
 ```
 
----
+
 
 <!-- ========================= -->
 
@@ -430,7 +428,7 @@ curl -X POST "https://api.eippone.com/predict" \
 
 <!-- ========================= -->
 
-## 🔌 API Reference
+##  API Reference
 
 | Endpoint  | Description             |
 | --------- | ----------------------- |
@@ -439,7 +437,7 @@ curl -X POST "https://api.eippone.com/predict" \
 | /simulate | Scenario simulation     |
 | /analyze  | Data analysis engine    |
 
----
+
 
 <!-- ========================= -->
 
@@ -447,16 +445,16 @@ curl -X POST "https://api.eippone.com/predict" \
 
 <!-- ========================= -->
 
-## 🛣 Roadmap
+##  Roadmap
 
 * [x] Core simulation engine
 * [x] Financial AI models
-* [ ] Cyber intelligence expansion
+* [x] Cyber intelligence expansion
 * [ ] Quantum simulation layer
 * [ ] Global data mesh integration
 * [ ] Autonomous AI agents
 
----
+
 
 <!-- ========================= -->
 
@@ -464,7 +462,7 @@ curl -X POST "https://api.eippone.com/predict" \
 
 <!-- ========================= -->
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions:
 
@@ -473,7 +471,7 @@ We welcome contributions:
 3. Commit changes
 4. Open pull request
 
----
+
 
 <!-- ========================= -->
 
@@ -481,14 +479,14 @@ We welcome contributions:
 
 <!-- ========================= -->
 
-## 🔐 Security
+##  Security
 
 * Zero-trust architecture
 * Encrypted data pipelines
 * Secure API gateway
 * Continuous vulnerability scanning
 
----
+
 
 <!-- ========================= -->
 
@@ -496,7 +494,7 @@ We welcome contributions:
 
 <!-- ========================= -->
 
-## 📄 License
+##  License
 
 MIT License © 2026 EIPPONE Ecosystem
 
