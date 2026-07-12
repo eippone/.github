@@ -186,7 +186,7 @@ F --> G[Visualization Layer]
 ```
 
 <p align="center">
-   <h1> AI Systems Archtecture <h1>
+   <h3> Generic Conversactional AI Systems Archtecture Overview </h3>
 </p>   
 <p align="center">
   
@@ -194,8 +194,13 @@ F --> G[Visualization Layer]
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/coversational Ai System3.png" width="100%" />
     </a>
 
-   </p>
+</p>
    
+   <br>
+<p align="center">
+   <h3>  Conversational AI Systems for Enterprise Digital Twins Overview </h3>>
+</p> 
+
  <p align="center">
    <a href="https://www.eippone.com" target="_blank">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins2.png" width="100%" />
@@ -203,12 +208,19 @@ F --> G[Visualization Layer]
     
 </p>
 
+   <br>
+ 
 <p align="center">
     <a href="https://www.eippone.com" target="_blank">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins.png" width="100%" />
     </a>
 
 </p>
+
+   <br>
+<p align="center">
+   <h3>  Generic Conversational AI Systems for Details </h3>>
+</p> 
 
 <p align="center">
     <a href="https://www.eippone.com" target="_blank">
