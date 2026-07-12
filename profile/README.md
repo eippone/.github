@@ -191,40 +191,36 @@ F --> G[Visualization Layer]
 <p align="center">
   
    <a href="https://www.eippone.com" target="_blank">
-      <img src="https://github.com/eippone/eippone-docs/blob/main/images/coversational Ai System3.png" width="100%" />
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/coversational Ai System3.png" width="70%" />
     </a>
 
 </p>
    
-   <br>
 <p align="center">
    <h3>  Conversational AI Systems for Enterprise Digital Twins Overview </h3>>
 </p> 
 
  <p align="center">
    <a href="https://www.eippone.com" target="_blank">
-      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins2.png" width="100%" />
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins2.png" width="70%" />
     </a>
     
 </p>
-
-   <br>
  
 <p align="center">
     <a href="https://www.eippone.com" target="_blank">
-      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins.png" width="100%" />
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins.png" width="70%" />
     </a>
 
 </p>
 
-   <br>
 <p align="center">
    <h3>  Generic Conversational AI Systems for Details </h3>>
 </p> 
 
 <p align="center">
     <a href="https://www.eippone.com" target="_blank">
-      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="100%" />
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="70%" />
     </a>
 </p>
 
