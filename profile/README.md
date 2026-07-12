@@ -185,6 +185,9 @@ F --> G[Visualization Layer]
 
 ```
 <br>
+
+<div align="center">
+   
 <p align="center">
    <h3> Generic Conversactional AI Systems Archtecture Overview </h3>
 </p>   
@@ -217,6 +220,7 @@ F --> G[Visualization Layer]
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="100%" />
 </p>
 
+</div>
 <br>
 
 ##  System Design
