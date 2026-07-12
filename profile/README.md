@@ -257,6 +257,15 @@ The simulation engine models:
 * GANs: Synthetic tabular data generation, time-series simulation, cyberattack pattern synthesis
 * Scenario generation
 
+### Key Models:
+
+* LSTM time series predictor
+* Transformer-based forecasting
+* Monte Carlo simulation engine
+* Traditional supervised classifiers (Random Forest, Gradient Boosting)
+* unsupervised anomaly detection algorithms (Isolation Forest, LOF, DBSCAN)
+* Unsupervised Feature Adaptation
+* Stacked Hybrid Ensemble
 
 <!-- ========================= -->
 
@@ -277,17 +286,6 @@ Capabilities:
 * Stress Testing
 * Portfolio Analytics
 * Market Forecasting
-
-### Key Models:
-
-* LSTM time series predictor
-* Transformer-based forecasting
-* Monte Carlo simulation engine
-* Traditional supervised classifiers (Random Forest, Gradient Boosting)
-* unsupervised anomaly detection algorithms (Isolation Forest, LOF, DBSCAN)
-* Unsupervised Feature Adaptation
-* Stacked Hybrid Ensemble
-
 
 
 <!-- ========================= -->
