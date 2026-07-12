@@ -283,6 +283,10 @@ Capabilities:
 * LSTM time series predictor
 * Transformer-based forecasting
 * Monte Carlo simulation engine
+* Traditional supervised classifiers (Random Forest, Gradient Boosting)
+* unsupervised anomaly detection algorithms (Isolation Forest, LOF, DBSCAN)
+* Unsupervised Feature Adaptation
+* Stacked Hybrid Ensemble
 
 
 
