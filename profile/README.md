@@ -251,9 +251,11 @@ The simulation engine models:
 
 * Real-time simulation
 * Stochastic modeling
-* Scenario generation
-* AI reinforcement feedback loops
 
+* AI reinforcement feedback loops
+* Cholesky + SMOTE: Balanced datasets, rare-event simulation (fraud, breaches, defaults)
+* GANs: Synthetic tabular data generation, time-series simulation, cyberattack pattern synthesis
+* Scenario generation
 
 
 <!-- ========================= -->
