@@ -424,7 +424,7 @@ We actively publish:
 ##  Installation
 
 ```bash
-git clone https://github.com/your-org/eippone.git
+git clone https://github.com/eippone/eippone.git
 cd eippone
 pip install -r requirements.txt
 npm install
