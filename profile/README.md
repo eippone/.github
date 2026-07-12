@@ -190,7 +190,6 @@ F --> G[Visualization Layer]
 </p>   
 <p align="center">
   
-   <a href="https://www.eippone.com" target="_blank">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/coversational Ai System3.png" width="30%" />
     </a>
 
@@ -202,7 +201,6 @@ F --> G[Visualization Layer]
 </p> 
 
  <p align="center">
-   <a href="https://www.eippone.com" target="_blank">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins2.png" width="70%" />
     </a>
     
@@ -211,7 +209,7 @@ F --> G[Visualization Layer]
  <br>
  
 <p align="center">
-    <a href="https://www.eippone.com" target="_blank">
+ 
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins.png" width="70%" />
     </a>
 
@@ -224,8 +222,8 @@ F --> G[Visualization Layer]
 </p> 
 
 <p align="center">
-    <a href="https://www.eippone.com" target="_blank">
-      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="70%" />
+
+      <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="100%" />
     </a>
 </p>
 
