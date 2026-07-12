@@ -184,7 +184,7 @@ E --> F[Decision Engine]
 F --> G[Visualization Layer]
 
 ```
-
+<br>
 <p align="center">
    <h3> Generic Conversactional AI Systems Archtecture Overview </h3>
 </p>   
@@ -195,7 +195,8 @@ F --> G[Visualization Layer]
     </a>
 
 </p>
-   
+
+<br>
 <p align="center">
    <h3>  Conversational AI Systems for Enterprise Digital Twins Overview </h3>
 </p> 
@@ -206,6 +207,8 @@ F --> G[Visualization Layer]
     </a>
     
 </p>
+
+ <br>
  
 <p align="center">
     <a href="https://www.eippone.com" target="_blank">
@@ -213,6 +216,8 @@ F --> G[Visualization Layer]
     </a>
 
 </p>
+
+<br>
 
 <p align="center">
    <h3>  Generic Conversational AI Systems for Details </h3>
