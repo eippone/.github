@@ -189,10 +189,7 @@ F --> G[Visualization Layer]
    <h3> Generic Conversactional AI Systems Archtecture Overview </h3>
 </p>   
 <p align="center">
-  
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/coversational Ai System3.png" width="30%" />
-    </a>
-
 </p>
 
 <br>
@@ -202,17 +199,12 @@ F --> G[Visualization Layer]
 
  <p align="center">
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins2.png" width="70%" />
-    </a>
-    
 </p>
 
  <br>
  
 <p align="center">
- 
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI Systems for Enterprise Digital Twins.png" width="70%" />
-    </a>
-
 </p>
 
 <br>
@@ -222,9 +214,7 @@ F --> G[Visualization Layer]
 </p> 
 
 <p align="center">
-
       <img src="https://github.com/eippone/eippone-docs/blob/main/images/Conversational AI System.png" width="100%" />
-    </a>
 </p>
 
 <br>
