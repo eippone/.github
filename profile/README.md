@@ -213,7 +213,7 @@ F --> G[Visualization Layer]
 <br>
 
 <p align="center">
-   <h3>  Generic Conversational AI Systems for Details </h3>
+   <h3>  Generic Conversational AI Systems Architecture Details </h3>
 </p> 
 
 <p align="center">
