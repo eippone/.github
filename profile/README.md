@@ -225,7 +225,7 @@ F --> G[Visualization Layer]
 
 <br>
 <p align="center">
-  <strong>Loan Application Digitalization Platform Architecture Blueprint </strong>
+  <h3> <strong>Loan Application Digitalization Platform Architecture Blueprint </strong> </h3>
 </p>
 
 
