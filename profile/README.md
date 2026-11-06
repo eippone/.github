@@ -226,12 +226,12 @@ F --> G[Visualization Layer]
 
 
 ##  System Design
-++++++++++++++++++++simplify ++++++++++++++++++++
+
 * Microservices-based architecture
 * Event-driven pipelines
 * Distributed AI processing
 * Modular intelligence agents
-+++++++++++++end simplify +++++++++++++++++++++++++++++++++++
+
 
 
 <!-- ========================= -->
