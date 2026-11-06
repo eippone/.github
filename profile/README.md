@@ -36,7 +36,6 @@ AI-driven Enterprise Intelligence Platform for Finance, Cybersecurity, Environme
 [Projects](https://github.com/orgs/EIPPONE/repositories)
 
 </div>
-+++++++++1–38	Keep+++++++++++++++++++++
 
 
 ## Welcome
@@ -422,9 +421,6 @@ We actively publish:
 * 🔗 Simulation Lab: `https://demo.eippone.com/sim`
 
 
-
-
-review*********************************************
 <!-- ========================= -->
 
 <!-- USAGE -->
@@ -458,7 +454,6 @@ curl -X POST "https://api.eippone.com/predict" \
 | /simulate | Scenario simulation     |
 | /analyze  | Data analysis engine    |
 
-+++++++++++++++++Review end ******************************************************
 
 <!-- ========================= -->
 
