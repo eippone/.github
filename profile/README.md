@@ -292,6 +292,25 @@ For repositories that accept community contributions:
 
 Please check each repository for its contribution rules, licensing terms and project status before submitting work.
 
+### 📖 Contributor Guide · 💙 Research Collaboration · Support EIPPONE
+
+<div align="center">
+
+<a href="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/CONTRIBUTING.md" target="_blank">
+  <img src="https://img.shields.io/badge/Contributing-Guide-brightgreen" alt="Contributor Guide" />
+</a>
+
+<a href="https://github.com/atsuvovor/CyberThreat_Insight/issues/new?template=research_collaboration.md" target="_blank">
+  <img src="https://img.shields.io/badge/Research-Collaboration-purple" alt="Research Collaboration" />
+</a>
+
+<a href="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/.github/SPONSORS.md" target="_blank">
+  <img src="https://img.shields.io/badge/Support-Sponsors-ff69b4" alt="Sponsor and Support Options" />
+</a>
+
+</div>
+
+
 For research collaborations, partnerships and general enquiries, visit:
 
 **[www.eippone.com](https://www.eippone.com)**
