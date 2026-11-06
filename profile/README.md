@@ -69,7 +69,7 @@ Our platform combines:
 - [Cyber Intelligence](#cyber-intelligence)
 - [Environmental Intelligence](#environmental-intelligence)
 - [Research & AI Layer](#research--ai-layer)
-- [Tech Stack](#TECH STACK)
+- [Tech Stack](#Tech Stack)
 - [Live Demos](#live-demos)
 - [System Design](#system-design)
 - [Installation](#installation)
