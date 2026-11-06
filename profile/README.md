@@ -14,11 +14,21 @@
 **AI-driven Simulation Intelligence for Finance, Cybersecurity, Environmental and Enterprise Systems**
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Simulation%20Intelligence-2563eb" />
-  <img src="https://img.shields.io/badge/AI-Driven-0891b2" />
-  <img src="https://img.shields.io/badge/Research-Applied%20Innovation-7c3aed" />
-  <img src="https://img.shields.io/badge/Community-Open%20Collaboration-0d9488" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" />
+  <img src="https://img.shields.io/badge/AI-Powered-purple" />
+  <img src="https://img.shields.io/badge/Open%20Source-Community-orange" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Finance-Intelligence-gold" />
+  <img src="https://img.shields.io/badge/Cyber-Security-red" />
+  <img src="https://img.shields.io/badge/Environment-Analytics-green" />
+  <img src="https://img.shields.io/badge/Research-Lab-blueviolet" />
+</p>
+
+
 
 [Website](https://www.eippone.com) •
 [GitHub Organization](https://github.com/orgs/eippone/repositories) •
@@ -28,7 +38,7 @@
 
 ---
 
-## Welcome to EIPPONE
+## Welcome
 
 **EIPPONE Simulation Dynamics Inc.** is a Canadian research-driven engineering company developing AI-powered Simulation Intelligence platforms.
 
