@@ -310,8 +310,9 @@ Please check each repository for its contribution rules, licensing terms and pro
 
 </div>
 
+### Connect with EIPPONE
 
-For research collaborations, partnerships and general enquiries, visit:
+For corporate enquiries, business partnerships and general information about EIPPONE Simulation Dynamics Inc., visit:
 
 **[www.eippone.com](https://www.eippone.com)**
 
